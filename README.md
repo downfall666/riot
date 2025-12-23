@@ -18,7 +18,7 @@ Clone the repository to your desired directory.
 Initialize Data: Create a folder named images in the root directory:
 
 Bash
-
+touch image_index.json (this file is too large to include here, but will not exceed 30 MB on your device)
 mkdir images
 Configuration: Place your reference .png images inside the /images folder.
 
